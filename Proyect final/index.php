@@ -23,13 +23,13 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+                  <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="./src/vista/iniciarSesion.php">Iniciar Sesión</a>
+                  <a class="nav-link active" aria-current="page" href="./src/vista/iniciarSecion.php">Iniciar Sesión</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="./src/vista/registrarUsuario.php">Registrarse</a>
+                  <a class="nav-link active" aria-current="page" href="./src/vista/registrarse.php">Registrarse</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link active" aria-current="page" href="./src/vista/productos.php">Productos</a>
