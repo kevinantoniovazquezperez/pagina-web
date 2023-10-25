@@ -2,6 +2,12 @@
     margin:0;
     padding:0;
 }
+.contenedor{
+    width: 100%;
+    max-width: 2000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
 #logo{
     height:60px;
     width: 60px;
@@ -9,22 +15,25 @@
 header{
     background: url('../img/index4.jpg');
 	background-repeat: no-repeat;
-    height: 450px;
+    height: auto;
     width: 100%;     
     color: white;
 }
 #titulo{
+    margin: 20px;
     font-family: 'italic';
     font-weight: normal;
 }
-.carta, p{
+.cartas p{
     font-family: 'italic';
     font-size: 20px;
 }
+/*productos hogar*/
 #hogar{
     height: 200px;
     width: 286px; 
 }
+/*carrusel*/
 table tr th h5{
     font-family: 'italic';
     font-size: 40px;
@@ -35,11 +44,12 @@ table tr th p{
     font-size: 20px;
     color: white;
 }
-
+/*productos de ropa*/
 #ropa{
     height: 320px;
     width: 286px; 
 }
+/*pie de pagina*/
 footer{
     float: left;
     position: relative;
@@ -48,22 +58,5 @@ footer{
     height: 150%;
     box-sizing: border-box;
     background-color: #adadad;
-
-
     padding-top: 10px;
 }
-.padding{
-    padding: 0.5%;
-    margin: 1.5%;
-}
-.contenedor{
-    display: flex;
-    justify-content: center;
-}
-.texto{
-    font-size: 40px;      
-}
-h1{
-    font-size: 50px; 
-    text-align: center;
-}   
