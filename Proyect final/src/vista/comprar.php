@@ -79,7 +79,7 @@
             <div class="col-6, padding">
             </div>
             <div class="col-12">
-              <a class="btn btn-primary" href="Productos.html" role="button">Realizar compra</a>              
+              <a class="btn btn-primary" href="Productos.php" role="button">Realizar compra</a>              
             </div>
           </div>
           </div>
